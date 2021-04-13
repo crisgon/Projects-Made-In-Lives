@@ -1,6 +1,6 @@
 # Projects Made In Lives
 
-This repository lists all the projects we built on twich lives.
+This repository lists all the projects we built on twich lives. To follow my lives visit my [channel on twitch](https://www.twitch.tv/cristiano_gon)
 
 
 ### Project:  Find Adrress

@@ -1,9 +1,15 @@
-# Projects Made In Lives
+# :movie_camera: Projects Made In Lives
 
-This repository lists all the projects we built on twich lives. To follow my lives visit my [channel on twitch](https://www.twitch.tv/cristiano_gon)
+> This repository lists all the projects we built on twich lives. To follow my lives visit my [channel on twitch](https://www.twitch.tv/cristiano_gon)
 
 
-### Project:  Find Adrress
+# :pushpin: Table of Contents
+
+* [Find Adrress](#-find-adrress)
+* [Pokedex](#-pokedex)
+
+
+### Find Adrress
 | Github           | Demo  | Technologies |
 | ------------- |:-------------:| -----:|
 | [Repo](https://github.com/crisgon/find-address) | [Demo](https://crisgon.github.io/find-address/) | HTML, CSS, JS |
@@ -12,7 +18,7 @@ This repository lists all the projects we built on twich lives. To follow my liv
 
 ---
 
-### Project:  Pokedex
+### Pokedex
 | Github           | Demo  | Technologies |
 | ------------- |:-------------:| -----:|
 | [Repo](https://github.com/crisgon/pokedex) | [Demo](https://crisgon.github.io/pokedex/) | HTML, CSS, JS |

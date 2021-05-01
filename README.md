@@ -19,3 +19,9 @@
 
 ![Pokedex Screenshot](https://i.imgur.com/lSu9Mug.png)
 
+### :pushpin: Memory Game
+| Github           | Demo  | Technologies |
+| ------------- |:-------------:| -----:|
+| [Repo](https://github.com/crisgon/Memory-game) | [Demo](https://crisgon.github.io/Memory-game/) | HTML, CSS, JS |
+
+![Pokedex Screenshot](https://github.com/crisgon/Memory-game/blob/main/src/screen-gif.gif)
